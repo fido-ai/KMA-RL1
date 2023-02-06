@@ -20,3 +20,4 @@
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 - [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+- [AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432); [Adaptive Focus for Efficient Video Recognition](https://arxiv.org/pdf/2105.03245.pdf); [AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition](https://arxiv.org/pdf/2112.14238.pdf)
