@@ -1,5 +1,7 @@
 # KMA-RL1
 
+Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
 ## Lecute 1 - Introduction to Reinforcement Learning
 
 ### Additional Materials
