@@ -21,6 +21,7 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 - [detailed practical materials](https://github.com/dennybritz/reinforcement-learning)
 - [previous-year assignemnts & solutions](https://github.com/righteousronin/Portfolio/tree/main/Reinforcement%20Learning)
 - [gymnasium gym deep-dive repo](https://github.com/WhatIThinkAbout/BabyRobotGym)
+- [gym setup article](https://towardsdatascience.com/creating-a-custom-gym-environment-for-jupyter-notebooks-e17024474617)
 
 ### Recordings
 - [practice-01](https://youtu.be/897q4tPmsGg)
