@@ -2,7 +2,7 @@
 
 Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
-## Lecute 1 - Introduction to Reinforcement Learning
+## Lecture 1 - Introduction to Reinforcement Learning
 
 ### Additional Materials
 - High level introduction: SB chapter 1
@@ -14,10 +14,17 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 - [gym env](https://www.gymlibrary.dev)
 - [saple factory](https://github.com/alex-petrenko/sample-factory) 
 
+## Practical part
+
 ### Practice-related
 - [RL specialization](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization)
 - [detailed practical materials](https://github.com/dennybritz/reinforcement-learning)
 - [previous-year assignemnts & solutions](https://github.com/righteousronin/Portfolio/tree/main/Reinforcement%20Learning)
+- [gymnasium gym deep-dive repo](https://github.com/WhatIThinkAbout/BabyRobotGym)
+
+### Recordings
+- [practice-01](https://youtu.be/897q4tPmsGg)
+- practice-02
 
 # List of papers
 - [SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards](https://arxiv.org/abs/1905.11108)
