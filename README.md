@@ -14,7 +14,10 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 - [gym env](https://www.gymlibrary.dev)
 - [saple factory](https://github.com/alex-petrenko/sample-factory) 
 
-
+### Practice-related
+- [RL specialization](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization)
+- [detailed practical materials](https://github.com/dennybritz/reinforcement-learning)
+- [previous-year assignemnts & solutions](https://github.com/righteousronin/Portfolio/tree/main/Reinforcement%20Learning)
 
 # List of papers
 - [SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards](https://arxiv.org/abs/1905.11108)
