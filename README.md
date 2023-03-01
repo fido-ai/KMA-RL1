@@ -46,7 +46,8 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 
 ### Recordings
 - [practice-01](https://youtu.be/897q4tPmsGg)
-- practice-02
+- [practice-02](https://youtu.be/-dWOD5SBgfs)
+- [practice-03](https://youtu.be/qhib3DFOEpY)
 
 </br>
 </br>
