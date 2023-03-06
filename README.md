@@ -24,7 +24,7 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 ## Lecture 4 - Q-learning
 - SB chapter 5.2, 5.4, 6.4-6.5, 6.7
 
-## Lecture (5, 6) - RL with function approximation
+## Lecture (4, 5) - RL with function approximation
 - SB chapter 9.3, 9.6, 9.7
 
 ## Lecture (7, 8) - Policy Search 
