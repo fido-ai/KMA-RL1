@@ -57,9 +57,9 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 
 ## Homework 1
 Submission [link](https://forms.gle/QzL7sAmMEgUeYxx57) </br>
-First deadline: 6/03/22 (100%)</br>
-Second deadline: 13/03/22 (75%)</br>
-Final deadline: 24/04/22 (50%)</br>
+First deadline: 6/03/22 (30 points max)</br>
+Second deadline: 13/03/22 (25 points max)</br>
+Final deadline: 24/04/22 (20 points max)</br>
 
 ## Homework 2
 Submission link (released soon)</br>
