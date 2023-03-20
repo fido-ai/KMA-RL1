@@ -29,6 +29,12 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 
 ## Lecture (7, 8) - Policy Search 
 - SB chapter 13
+- [David Silver lecture: Policy Gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=7)
+- [John Schulman: Policy Gradients and Q-learning](https://youtu.be/9dXiAecyJrY?t=499)
+- [Pieter Abbeel: lecture1](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
+- [Pieter Abbeel: lecture2](https://www.youtube.com/watch?v=KjWF8VIMGiY)
+- [Pieter Abbeel: lecture3](https://www.youtube.com/watch?v=pg-lKy7JIRk)
+- [Evolution strategies as a scalable alternative to reinforcement learning](https://openai.com/research/evolution-strategies)
 
 
 </br>
@@ -56,17 +62,23 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 
 # Homeworks
 
-## Homework 1
+## Homework 1 (1, 2, 3)
 Submission [link](https://forms.gle/QzL7sAmMEgUeYxx57) </br>
 First deadline: 6/03/22 (30 points max)</br>
 Second deadline: 13/03/22 (25 points max)</br>
 Final deadline: 24/04/22 (20 points max)</br>
 
-## Homework 2
+## Homework 2 (4, 5, 6)
 Submission link (released soon)</br>
 First deadline: </br>
 Second deadline:</br>
-Final deadline: 24/04/22 (50%)</br>
+Final deadline: 24/04/22</br>
+
+## Homework 3 (7, 8)
+Submission link (released soon)</br>
+First deadline: </br>
+Second deadline:</br>
+Final deadline: 24/04/22</br>
 
 </br>
 </br>
