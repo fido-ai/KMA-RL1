@@ -55,6 +55,7 @@ Based on the [CS-234 course](https://www.youtube.com/playlist?list=PLoROMvodv4rO
 - [practice-02](https://youtu.be/-dWOD5SBgfs)
 - [practice-03](https://youtu.be/qhib3DFOEpY)
 - [practice-04](https://youtu.be/vTA-QeCzmZ0)
+- [practice-05](https://youtu.be/Vcb9HIFDKkE)
 
 </br>
 </br>
