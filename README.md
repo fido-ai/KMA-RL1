@@ -70,13 +70,13 @@ Second deadline: 13/03/22 (25 points max)</br>
 Final deadline: 24/04/22 (20 points max)</br>
 
 ## Homework 2 (4, 5, 6)
-Submission link (released soon)</br>
+Submission [link](https://forms.gle/4BjqRBpNoremFmDw6)</br>
 First deadline: </br>
 Second deadline:</br>
 Final deadline: 24/04/22</br>
 
 ## Homework 3 (7, 8)
-Submission link (released soon)</br>
+Submission [link](https://forms.gle/9WHQVaJTKHJYXVpy9)</br>
 First deadline: </br>
 Second deadline:</br>
 Final deadline: 24/04/22</br>
